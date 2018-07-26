@@ -1,2 +1,5 @@
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
 title: Rodrigo Geurgas
+description: My personal site
+show_downloads: false
+logo: /profile.jpg
